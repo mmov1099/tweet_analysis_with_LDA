@@ -50,3 +50,6 @@ python schedule.py
 ```bash
 cd ~/Documents_ubuntu/人工知能入門/final_report/scripts && source ../lda_env/bin/activate && python schedule_do.py
 ```
+```bash
+cd tweet_analysis_with_LDA/scripts && source ../lda_env/bin/activate && python schedule_do.py
+```
