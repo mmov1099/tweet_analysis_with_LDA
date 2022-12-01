@@ -1,0 +1,362 @@
+{
+    "trends": [
+        {
+            "name": "流行語大賞",
+            "url": "http://twitter.com/search?q=%E6%B5%81%E8%A1%8C%E8%AA%9E%E5%A4%A7%E8%B3%9E",
+            "promoted_content": null,
+            "query": "%E6%B5%81%E8%A1%8C%E8%AA%9E%E5%A4%A7%E8%B3%9E",
+            "tweet_volume": 35428
+        },
+        {
+            "name": "アクシア",
+            "url": "http://twitter.com/search?q=%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%A2",
+            "promoted_content": null,
+            "query": "%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%A2",
+            "tweet_volume": 48435
+        },
+        {
+            "name": "#楽天スーパーSALEで買うべきもの",
+            "url": "http://twitter.com/search?q=%23%E6%A5%BD%E5%A4%A9%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BCSALE%E3%81%A7%E8%B2%B7%E3%81%86%E3%81%B9%E3%81%8D%E3%82%82%E3%81%AE",
+            "promoted_content": null,
+            "query": "%23%E6%A5%BD%E5%A4%A9%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BCSALE%E3%81%A7%E8%B2%B7%E3%81%86%E3%81%B9%E3%81%8D%E3%82%82%E3%81%AE",
+            "tweet_volume": 15083
+        },
+        {
+            "name": "#年越しおかし",
+            "url": "http://twitter.com/search?q=%23%E5%B9%B4%E8%B6%8A%E3%81%97%E3%81%8A%E3%81%8B%E3%81%97",
+            "promoted_content": null,
+            "query": "%23%E5%B9%B4%E8%B6%8A%E3%81%97%E3%81%8A%E3%81%8B%E3%81%97",
+            "tweet_volume": 185520
+        },
+        {
+            "name": "けつあな確定",
+            "url": "http://twitter.com/search?q=%E3%81%91%E3%81%A4%E3%81%82%E3%81%AA%E7%A2%BA%E5%AE%9A",
+            "promoted_content": null,
+            "query": "%E3%81%91%E3%81%A4%E3%81%82%E3%81%AA%E7%A2%BA%E5%AE%9A",
+            "tweet_volume": null
+        },
+        {
+            "name": "Xマッチ",
+            "url": "http://twitter.com/search?q=X%E3%83%9E%E3%83%83%E3%83%81",
+            "promoted_content": null,
+            "query": "X%E3%83%9E%E3%83%83%E3%83%81",
+            "tweet_volume": 16285
+        },
+        {
+            "name": "#Spotifyまとめ",
+            "url": "http://twitter.com/search?q=%23Spotify%E3%81%BE%E3%81%A8%E3%82%81",
+            "promoted_content": null,
+            "query": "%23Spotify%E3%81%BE%E3%81%A8%E3%82%81",
+            "tweet_volume": 62032
+        },
+        {
+            "name": "年間大賞",
+            "url": "http://twitter.com/search?q=%E5%B9%B4%E9%96%93%E5%A4%A7%E8%B3%9E",
+            "promoted_content": null,
+            "query": "%E5%B9%B4%E9%96%93%E5%A4%A7%E8%B3%9E",
+            "tweet_volume": 16483
+        },
+        {
+            "name": "#どっち派キャンペーン",
+            "url": "http://twitter.com/search?q=%23%E3%81%A9%E3%81%A3%E3%81%A1%E6%B4%BE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3",
+            "promoted_content": null,
+            "query": "%23%E3%81%A9%E3%81%A3%E3%81%A1%E6%B4%BE%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%9A%E3%83%BC%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "エデン組",
+            "url": "http://twitter.com/search?q=%E3%82%A8%E3%83%87%E3%83%B3%E7%B5%84",
+            "promoted_content": null,
+            "query": "%E3%82%A8%E3%83%87%E3%83%B3%E7%B5%84",
+            "tweet_volume": null
+        },
+        {
+            "name": "KROSS",
+            "url": "http://twitter.com/search?q=KROSS",
+            "promoted_content": null,
+            "query": "KROSS",
+            "tweet_volume": null
+        },
+        {
+            "name": "#ハレトケアドベントカレンダー2022",
+            "url": "http://twitter.com/search?q=%23%E3%83%8F%E3%83%AC%E3%83%88%E3%82%B1%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC2022",
+            "promoted_content": null,
+            "query": "%23%E3%83%8F%E3%83%AC%E3%83%88%E3%82%B1%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%88%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%80%E3%83%BC2022",
+            "tweet_volume": null
+        },
+        {
+            "name": "ChatGPT",
+            "url": "http://twitter.com/search?q=ChatGPT",
+            "promoted_content": null,
+            "query": "ChatGPT",
+            "tweet_volume": 10124
+        },
+        {
+            "name": "トップテン",
+            "url": "http://twitter.com/search?q=%E3%83%88%E3%83%83%E3%83%97%E3%83%86%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E3%83%88%E3%83%83%E3%83%97%E3%83%86%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "宗教2世",
+            "url": "http://twitter.com/search?q=%E5%AE%97%E6%95%992%E4%B8%96",
+            "promoted_content": null,
+            "query": "%E5%AE%97%E6%95%992%E4%B8%96",
+            "tweet_volume": null
+        },
+        {
+            "name": "ヤクルト",
+            "url": "http://twitter.com/search?q=%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88",
+            "promoted_content": null,
+            "query": "%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88",
+            "tweet_volume": 23445
+        },
+        {
+            "name": "卒業配信",
+            "url": "http://twitter.com/search?q=%E5%8D%92%E6%A5%AD%E9%85%8D%E4%BF%A1",
+            "promoted_content": null,
+            "query": "%E5%8D%92%E6%A5%AD%E9%85%8D%E4%BF%A1",
+            "tweet_volume": null
+        },
+        {
+            "name": "きつねダンス",
+            "url": "http://twitter.com/search?q=%E3%81%8D%E3%81%A4%E3%81%AD%E3%83%80%E3%83%B3%E3%82%B9",
+            "promoted_content": null,
+            "query": "%E3%81%8D%E3%81%A4%E3%81%AD%E3%83%80%E3%83%B3%E3%82%B9",
+            "tweet_volume": null
+        },
+        {
+            "name": "DMM TV",
+            "url": "http://twitter.com/search?q=%22DMM+TV%22",
+            "promoted_content": null,
+            "query": "%22DMM+TV%22",
+            "tweet_volume": 14034
+        },
+        {
+            "name": "あなたのアメとムチ度診断",
+            "url": "http://twitter.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%A2%E3%83%A1%E3%81%A8%E3%83%A0%E3%83%81%E5%BA%A6%E8%A8%BA%E6%96%AD",
+            "promoted_content": null,
+            "query": "%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%A2%E3%83%A1%E3%81%A8%E3%83%A0%E3%83%81%E5%BA%A6%E8%A8%BA%E6%96%AD",
+            "tweet_volume": null
+        },
+        {
+            "name": "大学合格",
+            "url": "http://twitter.com/search?q=%E5%A4%A7%E5%AD%A6%E5%90%88%E6%A0%BC",
+            "promoted_content": null,
+            "query": "%E5%A4%A7%E5%AD%A6%E5%90%88%E6%A0%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "けん玉チャレンジ",
+            "url": "http://twitter.com/search?q=%E3%81%91%E3%82%93%E7%8E%89%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8",
+            "promoted_content": null,
+            "query": "%E3%81%91%E3%82%93%E7%8E%89%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8",
+            "tweet_volume": null
+        },
+        {
+            "name": "ウォータートリートメント",
+            "url": "http://twitter.com/search?q=%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88",
+            "promoted_content": null,
+            "query": "%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%B3%E3%83%88",
+            "tweet_volume": null
+        },
+        {
+            "name": "バラムツ",
+            "url": "http://twitter.com/search?q=%E3%83%90%E3%83%A9%E3%83%A0%E3%83%84",
+            "promoted_content": null,
+            "query": "%E3%83%90%E3%83%A9%E3%83%A0%E3%83%84",
+            "tweet_volume": null
+        },
+        {
+            "name": "ジャニーズWEST流",
+            "url": "http://twitter.com/search?q=%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%BC%E3%82%BAWEST%E6%B5%81",
+            "promoted_content": null,
+            "query": "%E3%82%B8%E3%83%A3%E3%83%8B%E3%83%BC%E3%82%BAWEST%E6%B5%81",
+            "tweet_volume": null
+        },
+        {
+            "name": "重岡大毅編",
+            "url": "http://twitter.com/search?q=%E9%87%8D%E5%B2%A1%E5%A4%A7%E6%AF%85%E7%B7%A8",
+            "promoted_content": null,
+            "query": "%E9%87%8D%E5%B2%A1%E5%A4%A7%E6%AF%85%E7%B7%A8",
+            "tweet_volume": null
+        },
+        {
+            "name": "高級食パン",
+            "url": "http://twitter.com/search?q=%E9%AB%98%E7%B4%9A%E9%A3%9F%E3%83%91%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E9%AB%98%E7%B4%9A%E9%A3%9F%E3%83%91%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "方向性の違い",
+            "url": "http://twitter.com/search?q=%E6%96%B9%E5%90%91%E6%80%A7%E3%81%AE%E9%81%95%E3%81%84",
+            "promoted_content": null,
+            "query": "%E6%96%B9%E5%90%91%E6%80%A7%E3%81%AE%E9%81%95%E3%81%84",
+            "tweet_volume": null
+        },
+        {
+            "name": "母親ヅラ",
+            "url": "http://twitter.com/search?q=%E6%AF%8D%E8%A6%AA%E3%83%85%E3%83%A9",
+            "promoted_content": null,
+            "query": "%E6%AF%8D%E8%A6%AA%E3%83%85%E3%83%A9",
+            "tweet_volume": null
+        },
+        {
+            "name": "東海林のり子さん",
+            "url": "http://twitter.com/search?q=%E6%9D%B1%E6%B5%B7%E6%9E%97%E3%81%AE%E3%82%8A%E5%AD%90%E3%81%95%E3%82%93",
+            "promoted_content": null,
+            "query": "%E6%9D%B1%E6%B5%B7%E6%9E%97%E3%81%AE%E3%82%8A%E5%AD%90%E3%81%95%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "事後報告",
+            "url": "http://twitter.com/search?q=%E4%BA%8B%E5%BE%8C%E5%A0%B1%E5%91%8A",
+            "promoted_content": null,
+            "query": "%E4%BA%8B%E5%BE%8C%E5%A0%B1%E5%91%8A",
+            "tweet_volume": null
+        },
+        {
+            "name": "ワイドローラー",
+            "url": "http://twitter.com/search?q=%E3%83%AF%E3%82%A4%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC",
+            "promoted_content": null,
+            "query": "%E3%83%AF%E3%82%A4%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A9%E3%83%BC",
+            "tweet_volume": 10624
+        },
+        {
+            "name": "ラッキードリーム",
+            "url": "http://twitter.com/search?q=%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0",
+            "promoted_content": null,
+            "query": "%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0",
+            "tweet_volume": null
+        },
+        {
+            "name": "映画の日",
+            "url": "http://twitter.com/search?q=%E6%98%A0%E7%94%BB%E3%81%AE%E6%97%A5",
+            "promoted_content": null,
+            "query": "%E6%98%A0%E7%94%BB%E3%81%AE%E6%97%A5",
+            "tweet_volume": 24693
+        },
+        {
+            "name": "スペースシューター",
+            "url": "http://twitter.com/search?q=%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC",
+            "promoted_content": null,
+            "query": "%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%82%B7%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC",
+            "tweet_volume": 10153
+        },
+        {
+            "name": "スローンズ",
+            "url": "http://twitter.com/search?q=%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%BA",
+            "promoted_content": null,
+            "query": "%E3%82%B9%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%BA",
+            "tweet_volume": null
+        },
+        {
+            "name": "風呂の中",
+            "url": "http://twitter.com/search?q=%E9%A2%A8%E5%91%82%E3%81%AE%E4%B8%AD",
+            "promoted_content": null,
+            "query": "%E9%A2%A8%E5%91%82%E3%81%AE%E4%B8%AD",
+            "tweet_volume": null
+        },
+        {
+            "name": "ノミネート",
+            "url": "http://twitter.com/search?q=%E3%83%8E%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%88",
+            "promoted_content": null,
+            "query": "%E3%83%8E%E3%83%9F%E3%83%8D%E3%83%BC%E3%83%88",
+            "tweet_volume": 28616
+        },
+        {
+            "name": "史上最高1000億円超の課徴金命令",
+            "url": "http://twitter.com/search?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%981000%E5%84%84%E5%86%86%E8%B6%85%E3%81%AE%E8%AA%B2%E5%BE%B4%E9%87%91%E5%91%BD%E4%BB%A4",
+            "promoted_content": null,
+            "query": "%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%AB%981000%E5%84%84%E5%86%86%E8%B6%85%E3%81%AE%E8%AA%B2%E5%BE%B4%E9%87%91%E5%91%BD%E4%BB%A4",
+            "tweet_volume": null
+        },
+        {
+            "name": "千葉1部",
+            "url": "http://twitter.com/search?q=%E5%8D%83%E8%91%891%E9%83%A8",
+            "promoted_content": null,
+            "query": "%E5%8D%83%E8%91%891%E9%83%A8",
+            "tweet_volume": null
+        },
+        {
+            "name": "電力3社側",
+            "url": "http://twitter.com/search?q=%E9%9B%BB%E5%8A%9B3%E7%A4%BE%E5%81%B4",
+            "promoted_content": null,
+            "query": "%E9%9B%BB%E5%8A%9B3%E7%A4%BE%E5%81%B4",
+            "tweet_volume": null
+        },
+        {
+            "name": "ローレン",
+            "url": "http://twitter.com/search?q=%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E3%83%AD%E3%83%BC%E3%83%AC%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "選択契約書",
+            "url": "http://twitter.com/search?q=%E9%81%B8%E6%8A%9E%E5%A5%91%E7%B4%84%E6%9B%B8",
+            "promoted_content": null,
+            "query": "%E9%81%B8%E6%8A%9E%E5%A5%91%E7%B4%84%E6%9B%B8",
+            "tweet_volume": null
+        },
+        {
+            "name": "AIイラストメーカー",
+            "url": "http://twitter.com/search?q=AI%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC",
+            "promoted_content": null,
+            "query": "AI%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "園田金盃",
+            "url": "http://twitter.com/search?q=%E5%9C%92%E7%94%B0%E9%87%91%E7%9B%83",
+            "promoted_content": null,
+            "query": "%E5%9C%92%E7%94%B0%E9%87%91%E7%9B%83",
+            "tweet_volume": null
+        },
+        {
+            "name": "東海林さん",
+            "url": "http://twitter.com/search?q=%E6%9D%B1%E6%B5%B7%E6%9E%97%E3%81%95%E3%82%93",
+            "promoted_content": null,
+            "query": "%E6%9D%B1%E6%B5%B7%E6%9E%97%E3%81%95%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "スタンプトップ3",
+            "url": "http://twitter.com/search?q=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%83%88%E3%83%83%E3%83%973",
+            "promoted_content": null,
+            "query": "%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%97%E3%83%88%E3%83%83%E3%83%973",
+            "tweet_volume": null
+        },
+        {
+            "name": "ちいかわ飯店",
+            "url": "http://twitter.com/search?q=%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E9%A3%AF%E5%BA%97",
+            "promoted_content": null,
+            "query": "%E3%81%A1%E3%81%84%E3%81%8B%E3%82%8F%E9%A3%AF%E5%BA%97",
+            "tweet_volume": null
+        },
+        {
+            "name": "Twitter開設",
+            "url": "http://twitter.com/search?q=Twitter%E9%96%8B%E8%A8%AD",
+            "promoted_content": null,
+            "query": "Twitter%E9%96%8B%E8%A8%AD",
+            "tweet_volume": 37246
+        },
+        {
+            "name": "今井くん",
+            "url": "http://twitter.com/search?q=%E4%BB%8A%E4%BA%95%E3%81%8F%E3%82%93",
+            "promoted_content": null,
+            "query": "%E4%BB%8A%E4%BA%95%E3%81%8F%E3%82%93",
+            "tweet_volume": null
+        }
+    ],
+    "as_of": "2022-12-01T08:16:42Z",
+    "created_at": "2022-11-30T00:20:47Z",
+    "locations": [
+        {
+            "name": "Japan",
+            "woeid": 23424856
+        }
+    ]
+}

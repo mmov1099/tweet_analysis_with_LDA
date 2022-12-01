@@ -7,7 +7,7 @@ cd tweet_analysis_with_LDA
 ## install MeCab
 ```bash
 sudo apt-get install aptitude -y && sudo aptitude update && sudo aptitude upgrade -y && \
-sudo aptitude install mecab libmecab-dev mecab-ipadic-utf8 git make curl xz-utils file -y
+sudo aptitude install mecab libmecab-dev mecab-ipadic-utf8 git make curl xz-utils file -y && sudo cp /etc/mecabrc /usr/local/etc/
 ```
 ## install NEologd
 ```bash
@@ -43,7 +43,7 @@ python search_data.py
 # periodically search data
 search data every 3 hours
 ```bash
-python schedule.py
+python schedule_do.py
 ```
 
 # for developping
