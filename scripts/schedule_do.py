@@ -4,7 +4,10 @@ from search_data import search_and_save_data
 import datetime
 
 def task():
-    search_and_save_data()
+    try:
+        search_and_save_data()
+    except:
+        print('Error')
     print(datetime.datetime.now())
 
 def schedule_do(time:int=10800):
