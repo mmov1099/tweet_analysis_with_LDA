@@ -22,12 +22,12 @@ python3 -m venv lda_env && source lda_env/bin/activate && \
 pip install -r requirements.txt
 ```
 
-## when you run scripts
+# when you run scripts
 ```bash
 cd scripts
 ```
 
-# search data
+## search data
 1．Get the top 50 trending
 
 2．Save as json in `data/trend`
@@ -40,10 +40,16 @@ cd scripts
 python search_data.py
 ```
 
-# periodically search data
+## periodically search data
 search data every 3 hours
 ```bash
 python schedule_do.py
+```
+
+# run scripts in a container
+```bash
+docker build -t lda .
+docker run -it ubuntu /bin/bash
 ```
 
 # for developping
