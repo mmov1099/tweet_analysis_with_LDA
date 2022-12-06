@@ -1,0 +1,362 @@
+{
+    "trends": [
+        {
+            "name": "#あなたの姉度と妹度",
+            "url": "http://twitter.com/search?q=%23%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%A7%89%E5%BA%A6%E3%81%A8%E5%A6%B9%E5%BA%A6",
+            "promoted_content": null,
+            "query": "%23%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%A7%89%E5%BA%A6%E3%81%A8%E5%A6%B9%E5%BA%A6",
+            "tweet_volume": null
+        },
+        {
+            "name": "あなたの姉度妹度診断",
+            "url": "http://twitter.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%A7%89%E5%BA%A6%E5%A6%B9%E5%BA%A6%E8%A8%BA%E6%96%AD",
+            "promoted_content": null,
+            "query": "%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E5%A7%89%E5%BA%A6%E5%A6%B9%E5%BA%A6%E8%A8%BA%E6%96%AD",
+            "tweet_volume": null
+        },
+        {
+            "name": "#冬のホロマート",
+            "url": "http://twitter.com/search?q=%23%E5%86%AC%E3%81%AE%E3%83%9B%E3%83%AD%E3%83%9E%E3%83%BC%E3%83%88",
+            "promoted_content": null,
+            "query": "%23%E5%86%AC%E3%81%AE%E3%83%9B%E3%83%AD%E3%83%9E%E3%83%BC%E3%83%88",
+            "tweet_volume": null
+        },
+        {
+            "name": "姉と妹のマリアージュ",
+            "url": "http://twitter.com/search?q=%E5%A7%89%E3%81%A8%E5%A6%B9%E3%81%AE%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5",
+            "promoted_content": null,
+            "query": "%E5%A7%89%E3%81%A8%E5%A6%B9%E3%81%AE%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%BC%E3%82%B8%E3%83%A5",
+            "tweet_volume": null
+        },
+        {
+            "name": "姉度50",
+            "url": "http://twitter.com/search?q=%E5%A7%89%E5%BA%A650",
+            "promoted_content": null,
+            "query": "%E5%A7%89%E5%BA%A650",
+            "tweet_volume": null
+        },
+        {
+            "name": "妹度50",
+            "url": "http://twitter.com/search?q=%E5%A6%B9%E5%BA%A650",
+            "promoted_content": null,
+            "query": "%E5%A6%B9%E5%BA%A650",
+            "tweet_volume": null
+        },
+        {
+            "name": "薄皮シリーズ",
+            "url": "http://twitter.com/search?q=%E8%96%84%E7%9A%AE%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+            "promoted_content": null,
+            "query": "%E8%96%84%E7%9A%AE%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA",
+            "tweet_volume": 28976
+        },
+        {
+            "name": "#ブシ2022再臨",
+            "url": "http://twitter.com/search?q=%23%E3%83%96%E3%82%B72022%E5%86%8D%E8%87%A8",
+            "promoted_content": null,
+            "query": "%23%E3%83%96%E3%82%B72022%E5%86%8D%E8%87%A8",
+            "tweet_volume": 10895
+        },
+        {
+            "name": "姉度80",
+            "url": "http://twitter.com/search?q=%E5%A7%89%E5%BA%A680",
+            "promoted_content": null,
+            "query": "%E5%A7%89%E5%BA%A680",
+            "tweet_volume": null
+        },
+        {
+            "name": "妹度20",
+            "url": "http://twitter.com/search?q=%E5%A6%B9%E5%BA%A620",
+            "promoted_content": null,
+            "query": "%E5%A6%B9%E5%BA%A620",
+            "tweet_volume": null
+        },
+        {
+            "name": "にわかファン",
+            "url": "http://twitter.com/search?q=%E3%81%AB%E3%82%8F%E3%81%8B%E3%83%95%E3%82%A1%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E3%81%AB%E3%82%8F%E3%81%8B%E3%83%95%E3%82%A1%E3%83%B3",
+            "tweet_volume": 13313
+        },
+        {
+            "name": "ダルビッシュ",
+            "url": "http://twitter.com/search?q=%E3%83%80%E3%83%AB%E3%83%93%E3%83%83%E3%82%B7%E3%83%A5",
+            "promoted_content": null,
+            "query": "%E3%83%80%E3%83%AB%E3%83%93%E3%83%83%E3%82%B7%E3%83%A5",
+            "tweet_volume": null
+        },
+        {
+            "name": "#バトルヒストリア",
+            "url": "http://twitter.com/search?q=%23%E3%83%90%E3%83%88%E3%83%AB%E3%83%92%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2",
+            "promoted_content": null,
+            "query": "%23%E3%83%90%E3%83%88%E3%83%AB%E3%83%92%E3%82%B9%E3%83%88%E3%83%AA%E3%82%A2",
+            "tweet_volume": null
+        },
+        {
+            "name": "ミスレス",
+            "url": "http://twitter.com/search?q=%E3%83%9F%E3%82%B9%E3%83%AC%E3%82%B9",
+            "promoted_content": null,
+            "query": "%E3%83%9F%E3%82%B9%E3%83%AC%E3%82%B9",
+            "tweet_volume": null
+        },
+        {
+            "name": "戦隊大失格",
+            "url": "http://twitter.com/search?q=%E6%88%A6%E9%9A%8A%E5%A4%A7%E5%A4%B1%E6%A0%BC",
+            "promoted_content": null,
+            "query": "%E6%88%A6%E9%9A%8A%E5%A4%A7%E5%A4%B1%E6%A0%BC",
+            "tweet_volume": 12483
+        },
+        {
+            "name": "ランチパック",
+            "url": "http://twitter.com/search?q=%E3%83%A9%E3%83%B3%E3%83%81%E3%83%91%E3%83%83%E3%82%AF",
+            "promoted_content": null,
+            "query": "%E3%83%A9%E3%83%B3%E3%83%81%E3%83%91%E3%83%83%E3%82%AF",
+            "tweet_volume": 22646
+        },
+        {
+            "name": "薄皮パン",
+            "url": "http://twitter.com/search?q=%E8%96%84%E7%9A%AE%E3%83%91%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E8%96%84%E7%9A%AE%E3%83%91%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "#まちとかがやくSEVENTEEN",
+            "url": "http://twitter.com/search?q=%23%E3%81%BE%E3%81%A1%E3%81%A8%E3%81%8B%E3%81%8C%E3%82%84%E3%81%8FSEVENTEEN",
+            "promoted_content": null,
+            "query": "%23%E3%81%BE%E3%81%A1%E3%81%A8%E3%81%8B%E3%81%8C%E3%82%84%E3%81%8FSEVENTEEN",
+            "tweet_volume": null
+        },
+        {
+            "name": "グリッター缶バッジ",
+            "url": "http://twitter.com/search?q=%E3%82%B0%E3%83%AA%E3%83%83%E3%82%BF%E3%83%BC%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8",
+            "promoted_content": null,
+            "query": "%E3%82%B0%E3%83%AA%E3%83%83%E3%82%BF%E3%83%BC%E7%BC%B6%E3%83%90%E3%83%83%E3%82%B8",
+            "tweet_volume": null
+        },
+        {
+            "name": "姉度20",
+            "url": "http://twitter.com/search?q=%E5%A7%89%E5%BA%A620",
+            "promoted_content": null,
+            "query": "%E5%A7%89%E5%BA%A620",
+            "tweet_volume": null
+        },
+        {
+            "name": "妹度80",
+            "url": "http://twitter.com/search?q=%E5%A6%B9%E5%BA%A680",
+            "promoted_content": null,
+            "query": "%E5%A6%B9%E5%BA%A680",
+            "tweet_volume": null
+        },
+        {
+            "name": "ヨドバシ",
+            "url": "http://twitter.com/search?q=%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7",
+            "promoted_content": null,
+            "query": "%E3%83%A8%E3%83%89%E3%83%90%E3%82%B7",
+            "tweet_volume": null
+        },
+        {
+            "name": "ヴァンガード",
+            "url": "http://twitter.com/search?q=%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89",
+            "promoted_content": null,
+            "query": "%E3%83%B4%E3%82%A1%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%89",
+            "tweet_volume": 11455
+        },
+        {
+            "name": "山崎製パン",
+            "url": "http://twitter.com/search?q=%E5%B1%B1%E5%B4%8E%E8%A3%BD%E3%83%91%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E5%B1%B1%E5%B4%8E%E8%A3%BD%E3%83%91%E3%83%B3",
+            "tweet_volume": 22140
+        },
+        {
+            "name": "LOLの格ゲー",
+            "url": "http://twitter.com/search?q=LOL%E3%81%AE%E6%A0%BC%E3%82%B2%E3%83%BC",
+            "promoted_content": null,
+            "query": "LOL%E3%81%AE%E6%A0%BC%E3%82%B2%E3%83%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "内容量5→4",
+            "url": "http://twitter.com/search?q=%E5%86%85%E5%AE%B9%E9%87%8F5%E2%86%924",
+            "promoted_content": null,
+            "query": "%E5%86%85%E5%AE%B9%E9%87%8F5%E2%86%924",
+            "tweet_volume": null
+        },
+        {
+            "name": "姉度100",
+            "url": "http://twitter.com/search?q=%E5%A7%89%E5%BA%A6100",
+            "promoted_content": null,
+            "query": "%E5%A7%89%E5%BA%A6100",
+            "tweet_volume": null
+        },
+        {
+            "name": "マーシー",
+            "url": "http://twitter.com/search?q=%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%BC",
+            "promoted_content": null,
+            "query": "%E3%83%9E%E3%83%BC%E3%82%B7%E3%83%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "ミリオンサブスク",
+            "url": "http://twitter.com/search?q=%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF",
+            "promoted_content": null,
+            "query": "%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%82%B5%E3%83%96%E3%82%B9%E3%82%AF",
+            "tweet_volume": null
+        },
+        {
+            "name": "エボルヴ",
+            "url": "http://twitter.com/search?q=%E3%82%A8%E3%83%9C%E3%83%AB%E3%83%B4",
+            "promoted_content": null,
+            "query": "%E3%82%A8%E3%83%9C%E3%83%AB%E3%83%B4",
+            "tweet_volume": null
+        },
+        {
+            "name": "ときのそら",
+            "url": "http://twitter.com/search?q=%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%9D%E3%82%89",
+            "promoted_content": null,
+            "query": "%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%9D%E3%82%89",
+            "tweet_volume": null
+        },
+        {
+            "name": "薄皮クリームパン",
+            "url": "http://twitter.com/search?q=%E8%96%84%E7%9A%AE%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E8%96%84%E7%9A%AE%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%91%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "ミスチャレ",
+            "url": "http://twitter.com/search?q=%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%AC",
+            "promoted_content": null,
+            "query": "%E3%83%9F%E3%82%B9%E3%83%81%E3%83%A3%E3%83%AC",
+            "tweet_volume": null
+        },
+        {
+            "name": "サンタッキー",
+            "url": "http://twitter.com/search?q=%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC",
+            "promoted_content": null,
+            "query": "%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%83%E3%82%AD%E3%83%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "ARuFaさん",
+            "url": "http://twitter.com/search?q=ARuFa%E3%81%95%E3%82%93",
+            "promoted_content": null,
+            "query": "ARuFa%E3%81%95%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "本物の10番",
+            "url": "http://twitter.com/search?q=%E6%9C%AC%E7%89%A9%E3%81%AE10%E7%95%AA",
+            "promoted_content": null,
+            "query": "%E6%9C%AC%E7%89%A9%E3%81%AE10%E7%95%AA",
+            "tweet_volume": null
+        },
+        {
+            "name": "AV新法",
+            "url": "http://twitter.com/search?q=AV%E6%96%B0%E6%B3%95",
+            "promoted_content": null,
+            "query": "AV%E6%96%B0%E6%B3%95",
+            "tweet_volume": 17710
+        },
+        {
+            "name": "おでん東大",
+            "url": "http://twitter.com/search?q=%E3%81%8A%E3%81%A7%E3%82%93%E6%9D%B1%E5%A4%A7",
+            "promoted_content": null,
+            "query": "%E3%81%8A%E3%81%A7%E3%82%93%E6%9D%B1%E5%A4%A7",
+            "tweet_volume": null
+        },
+        {
+            "name": "薄皮あんぱん",
+            "url": "http://twitter.com/search?q=%E8%96%84%E7%9A%AE%E3%81%82%E3%82%93%E3%81%B1%E3%82%93",
+            "promoted_content": null,
+            "query": "%E8%96%84%E7%9A%AE%E3%81%82%E3%82%93%E3%81%B1%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "ジミンちゃん",
+            "url": "http://twitter.com/search?q=%E3%82%B8%E3%83%9F%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93",
+            "promoted_content": null,
+            "query": "%E3%82%B8%E3%83%9F%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93",
+            "tweet_volume": 10488
+        },
+        {
+            "name": "ミリオンライブ",
+            "url": "http://twitter.com/search?q=%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96",
+            "promoted_content": null,
+            "query": "%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%96",
+            "tweet_volume": null
+        },
+        {
+            "name": "エスケープ",
+            "url": "http://twitter.com/search?q=%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97",
+            "promoted_content": null,
+            "query": "%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97",
+            "tweet_volume": null
+        },
+        {
+            "name": "日本国の恥さらし",
+            "url": "http://twitter.com/search?q=%E6%97%A5%E6%9C%AC%E5%9B%BD%E3%81%AE%E6%81%A5%E3%81%95%E3%82%89%E3%81%97",
+            "promoted_content": null,
+            "query": "%E6%97%A5%E6%9C%AC%E5%9B%BD%E3%81%AE%E6%81%A5%E3%81%95%E3%82%89%E3%81%97",
+            "tweet_volume": null
+        },
+        {
+            "name": "ちひろさん",
+            "url": "http://twitter.com/search?q=%E3%81%A1%E3%81%B2%E3%82%8D%E3%81%95%E3%82%93",
+            "promoted_content": null,
+            "query": "%E3%81%A1%E3%81%B2%E3%82%8D%E3%81%95%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "星街すいせい",
+            "url": "http://twitter.com/search?q=%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84",
+            "promoted_content": null,
+            "query": "%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84",
+            "tweet_volume": null
+        },
+        {
+            "name": "木村花さん母",
+            "url": "http://twitter.com/search?q=%E6%9C%A8%E6%9D%91%E8%8A%B1%E3%81%95%E3%82%93%E6%AF%8D",
+            "promoted_content": null,
+            "query": "%E6%9C%A8%E6%9D%91%E8%8A%B1%E3%81%95%E3%82%93%E6%AF%8D",
+            "tweet_volume": null
+        },
+        {
+            "name": "ファイナルデスティネーション",
+            "url": "http://twitter.com/search?q=%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%87%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%87%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8D%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "オモコロ",
+            "url": "http://twitter.com/search?q=%E3%82%AA%E3%83%A2%E3%82%B3%E3%83%AD",
+            "promoted_content": null,
+            "query": "%E3%82%AA%E3%83%A2%E3%82%B3%E3%83%AD",
+            "tweet_volume": null
+        },
+        {
+            "name": "さくらみこ",
+            "url": "http://twitter.com/search?q=%E3%81%95%E3%81%8F%E3%82%89%E3%81%BF%E3%81%93",
+            "promoted_content": null,
+            "query": "%E3%81%95%E3%81%8F%E3%82%89%E3%81%BF%E3%81%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "歌仙さん",
+            "url": "http://twitter.com/search?q=%E6%AD%8C%E4%BB%99%E3%81%95%E3%82%93",
+            "promoted_content": null,
+            "query": "%E6%AD%8C%E4%BB%99%E3%81%95%E3%82%93",
+            "tweet_volume": null
+        }
+    ],
+    "as_of": "2022-12-06T06:50:54Z",
+    "created_at": "2022-12-05T18:01:19Z",
+    "locations": [
+        {
+            "name": "Japan",
+            "woeid": 23424856
+        }
+    ]
+}

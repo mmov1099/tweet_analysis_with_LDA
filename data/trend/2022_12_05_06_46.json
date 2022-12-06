@@ -1,0 +1,362 @@
+{
+    "trends": [
+        {
+            "name": "イングランド",
+            "url": "http://twitter.com/search?q=%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89",
+            "promoted_content": null,
+            "query": "%E3%82%A4%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89",
+            "tweet_volume": 31127
+        },
+        {
+            "name": "ベリンガム",
+            "url": "http://twitter.com/search?q=%E3%83%99%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%A0",
+            "promoted_content": null,
+            "query": "%E3%83%99%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%A0",
+            "tweet_volume": null
+        },
+        {
+            "name": "エムバペ",
+            "url": "http://twitter.com/search?q=%E3%82%A8%E3%83%A0%E3%83%90%E3%83%9A",
+            "promoted_content": null,
+            "query": "%E3%82%A8%E3%83%A0%E3%83%90%E3%83%9A",
+            "tweet_volume": 30375
+        },
+        {
+            "name": "フォーデン",
+            "url": "http://twitter.com/search?q=%E3%83%95%E3%82%A9%E3%83%BC%E3%83%87%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E3%83%95%E3%82%A9%E3%83%BC%E3%83%87%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "#あなたをイーブイ化",
+            "url": "http://twitter.com/search?q=%23%E3%81%82%E3%81%AA%E3%81%9F%E3%82%92%E3%82%A4%E3%83%BC%E3%83%96%E3%82%A4%E5%8C%96",
+            "promoted_content": null,
+            "query": "%23%E3%81%82%E3%81%AA%E3%81%9F%E3%82%92%E3%82%A4%E3%83%BC%E3%83%96%E3%82%A4%E5%8C%96",
+            "tweet_volume": null
+        },
+        {
+            "name": "ヘンダーソン",
+            "url": "http://twitter.com/search?q=%E3%83%98%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BD%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E3%83%98%E3%83%B3%E3%83%80%E3%83%BC%E3%82%BD%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "#おは戦41205dg",
+            "url": "http://twitter.com/search?q=%23%E3%81%8A%E3%81%AF%E6%88%A641205dg",
+            "promoted_content": null,
+            "query": "%23%E3%81%8A%E3%81%AF%E6%88%A641205dg",
+            "tweet_volume": null
+        },
+        {
+            "name": "第318回",
+            "url": "http://twitter.com/search?q=%E7%AC%AC318%E5%9B%9E",
+            "promoted_content": null,
+            "query": "%E7%AC%AC318%E5%9B%9E",
+            "tweet_volume": null
+        },
+        {
+            "name": "#ヤフー検索大賞",
+            "url": "http://twitter.com/search?q=%23%E3%83%A4%E3%83%95%E3%83%BC%E6%A4%9C%E7%B4%A2%E5%A4%A7%E8%B3%9E",
+            "promoted_content": null,
+            "query": "%23%E3%83%A4%E3%83%95%E3%83%BC%E6%A4%9C%E7%B4%A2%E5%A4%A7%E8%B3%9E",
+            "tweet_volume": 10172
+        },
+        {
+            "name": "#藤井風Instagramストーリー",
+            "url": "http://twitter.com/search?q=%23%E8%97%A4%E4%BA%95%E9%A2%A8Instagram%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+            "promoted_content": null,
+            "query": "%23%E8%97%A4%E4%BA%95%E9%A2%A8Instagram%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "#乃木坂工事中",
+            "url": "http://twitter.com/search?q=%23%E4%B9%83%E6%9C%A8%E5%9D%82%E5%B7%A5%E4%BA%8B%E4%B8%AD",
+            "promoted_content": null,
+            "query": "%23%E4%B9%83%E6%9C%A8%E5%9D%82%E5%B7%A5%E4%BA%8B%E4%B8%AD",
+            "tweet_volume": 28989
+        },
+        {
+            "name": "キルコさん",
+            "url": "http://twitter.com/search?q=%E3%82%AD%E3%83%AB%E3%82%B3%E3%81%95%E3%82%93",
+            "promoted_content": null,
+            "query": "%E3%82%AD%E3%83%AB%E3%82%B3%E3%81%95%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "逆転の生活",
+            "url": "http://twitter.com/search?q=%E9%80%86%E8%BB%A2%E3%81%AE%E7%94%9F%E6%B4%BB",
+            "promoted_content": null,
+            "query": "%E9%80%86%E8%BB%A2%E3%81%AE%E7%94%9F%E6%B4%BB",
+            "tweet_volume": null
+        },
+        {
+            "name": "ムバッペ",
+            "url": "http://twitter.com/search?q=%E3%83%A0%E3%83%90%E3%83%83%E3%83%9A",
+            "promoted_content": null,
+            "query": "%E3%83%A0%E3%83%90%E3%83%83%E3%83%9A",
+            "tweet_volume": null
+        },
+        {
+            "name": "夜型人間",
+            "url": "http://twitter.com/search?q=%E5%A4%9C%E5%9E%8B%E4%BA%BA%E9%96%93",
+            "promoted_content": null,
+            "query": "%E5%A4%9C%E5%9E%8B%E4%BA%BA%E9%96%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "基本1人",
+            "url": "http://twitter.com/search?q=%E5%9F%BA%E6%9C%AC1%E4%BA%BA",
+            "promoted_content": null,
+            "query": "%E5%9F%BA%E6%9C%AC1%E4%BA%BA",
+            "tweet_volume": null
+        },
+        {
+            "name": "寺生まれのTさん",
+            "url": "http://twitter.com/search?q=%E5%AF%BA%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%AET%E3%81%95%E3%82%93",
+            "promoted_content": null,
+            "query": "%E5%AF%BA%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%AET%E3%81%95%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "ピックフォード",
+            "url": "http://twitter.com/search?q=%E3%83%94%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89",
+            "promoted_content": null,
+            "query": "%E3%83%94%E3%83%83%E3%82%AF%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89",
+            "tweet_volume": null
+        },
+        {
+            "name": "England",
+            "url": "http://twitter.com/search?q=England",
+            "promoted_content": null,
+            "query": "England",
+            "tweet_volume": 471548
+        },
+        {
+            "name": "Senegal",
+            "url": "http://twitter.com/search?q=Senegal",
+            "promoted_content": null,
+            "query": "Senegal",
+            "tweet_volume": 378683
+        },
+        {
+            "name": "レヴァンドフスキ",
+            "url": "http://twitter.com/search?q=%E3%83%AC%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%89%E3%83%95%E3%82%B9%E3%82%AD",
+            "promoted_content": null,
+            "query": "%E3%83%AC%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%89%E3%83%95%E3%82%B9%E3%82%AD",
+            "tweet_volume": null
+        },
+        {
+            "name": "アルバムの日",
+            "url": "http://twitter.com/search?q=%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%81%AE%E6%97%A5",
+            "promoted_content": null,
+            "query": "%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E3%81%AE%E6%97%A5",
+            "tweet_volume": null
+        },
+        {
+            "name": "グリーリッシュ",
+            "url": "http://twitter.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5",
+            "promoted_content": null,
+            "query": "%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5",
+            "tweet_volume": null
+        },
+        {
+            "name": "マグワイア",
+            "url": "http://twitter.com/search?q=%E3%83%9E%E3%82%B0%E3%83%AF%E3%82%A4%E3%82%A2",
+            "promoted_content": null,
+            "query": "%E3%83%9E%E3%82%B0%E3%83%AF%E3%82%A4%E3%82%A2",
+            "tweet_volume": null
+        },
+        {
+            "name": "坂田さん",
+            "url": "http://twitter.com/search?q=%E5%9D%82%E7%94%B0%E3%81%95%E3%82%93",
+            "promoted_content": null,
+            "query": "%E5%9D%82%E7%94%B0%E3%81%95%E3%82%93",
+            "tweet_volume": 42050
+        },
+        {
+            "name": "Wordle 534",
+            "url": "http://twitter.com/search?q=%22Wordle+534%22",
+            "promoted_content": null,
+            "query": "%22Wordle+534%22",
+            "tweet_volume": null
+        },
+        {
+            "name": "Mbappe",
+            "url": "http://twitter.com/search?q=Mbappe",
+            "promoted_content": null,
+            "query": "Mbappe",
+            "tweet_volume": 711106
+        },
+        {
+            "name": "羽生結弦さん",
+            "url": "http://twitter.com/search?q=%E7%BE%BD%E7%94%9F%E7%B5%90%E5%BC%A6%E3%81%95%E3%82%93",
+            "promoted_content": null,
+            "query": "%E7%BE%BD%E7%94%9F%E7%B5%90%E5%BC%A6%E3%81%95%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "クルタ族",
+            "url": "http://twitter.com/search?q=%E3%82%AF%E3%83%AB%E3%82%BF%E6%97%8F",
+            "promoted_content": null,
+            "query": "%E3%82%AF%E3%83%AB%E3%82%BF%E6%97%8F",
+            "tweet_volume": null
+        },
+        {
+            "name": "ブラッキー",
+            "url": "http://twitter.com/search?q=%E3%83%96%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC",
+            "promoted_content": null,
+            "query": "%E3%83%96%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "MEZZO",
+            "url": "http://twitter.com/search?q=MEZZO",
+            "promoted_content": null,
+            "query": "MEZZO",
+            "tweet_volume": 39182
+        },
+        {
+            "name": "魂の持ち主",
+            "url": "http://twitter.com/search?q=%E9%AD%82%E3%81%AE%E6%8C%81%E3%81%A1%E4%B8%BB",
+            "promoted_content": null,
+            "query": "%E9%AD%82%E3%81%AE%E6%8C%81%E3%81%A1%E4%B8%BB",
+            "tweet_volume": null
+        },
+        {
+            "name": "スビンちゃん",
+            "url": "http://twitter.com/search?q=%E3%82%B9%E3%83%93%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93",
+            "promoted_content": null,
+            "query": "%E3%82%B9%E3%83%93%E3%83%B3%E3%81%A1%E3%82%83%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "アンアン",
+            "url": "http://twitter.com/search?q=%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "内閣支持率39",
+            "url": "http://twitter.com/search?q=%E5%86%85%E9%96%A3%E6%94%AF%E6%8C%81%E7%8E%8739",
+            "promoted_content": null,
+            "query": "%E5%86%85%E9%96%A3%E6%94%AF%E6%8C%81%E7%8E%8739",
+            "tweet_volume": null
+        },
+        {
+            "name": "不支持52",
+            "url": "http://twitter.com/search?q=%E4%B8%8D%E6%94%AF%E6%8C%8152",
+            "promoted_content": null,
+            "query": "%E4%B8%8D%E6%94%AF%E6%8C%8152",
+            "tweet_volume": null
+        },
+        {
+            "name": "協調性抜群",
+            "url": "http://twitter.com/search?q=%E5%8D%94%E8%AA%BF%E6%80%A7%E6%8A%9C%E7%BE%A4",
+            "promoted_content": null,
+            "query": "%E5%8D%94%E8%AA%BF%E6%80%A7%E6%8A%9C%E7%BE%A4",
+            "tweet_volume": null
+        },
+        {
+            "name": "うるおいボディ",
+            "url": "http://twitter.com/search?q=%E3%81%86%E3%82%8B%E3%81%8A%E3%81%84%E3%83%9C%E3%83%87%E3%82%A3",
+            "promoted_content": null,
+            "query": "%E3%81%86%E3%82%8B%E3%81%8A%E3%81%84%E3%83%9C%E3%83%87%E3%82%A3",
+            "tweet_volume": null
+        },
+        {
+            "name": "グリーズマン",
+            "url": "http://twitter.com/search?q=%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E3%82%B0%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%9E%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "バスラ横アリ",
+            "url": "http://twitter.com/search?q=%E3%83%90%E3%82%B9%E3%83%A9%E6%A8%AA%E3%82%A2%E3%83%AA",
+            "promoted_content": null,
+            "query": "%E3%83%90%E3%82%B9%E3%83%A9%E6%A8%AA%E3%82%A2%E3%83%AA",
+            "tweet_volume": null
+        },
+        {
+            "name": "飛鳥ちゃん",
+            "url": "http://twitter.com/search?q=%E9%A3%9B%E9%B3%A5%E3%81%A1%E3%82%83%E3%82%93",
+            "promoted_content": null,
+            "query": "%E9%A3%9B%E9%B3%A5%E3%81%A1%E3%82%83%E3%82%93",
+            "tweet_volume": 12072
+        },
+        {
+            "name": "バロリ100万人",
+            "url": "http://twitter.com/search?q=%E3%83%90%E3%83%AD%E3%83%AA100%E4%B8%87%E4%BA%BA",
+            "promoted_content": null,
+            "query": "%E3%83%90%E3%83%AD%E3%83%AA100%E4%B8%87%E4%BA%BA",
+            "tweet_volume": null
+        },
+        {
+            "name": "🇫🇷vs",
+            "url": "http://twitter.com/search?q=%F0%9F%87%AB%F0%9F%87%B7vs",
+            "promoted_content": null,
+            "query": "%F0%9F%87%AB%F0%9F%87%B7vs",
+            "tweet_volume": 25794
+        },
+        {
+            "name": "人の幸せ",
+            "url": "http://twitter.com/search?q=%E4%BA%BA%E3%81%AE%E5%B9%B8%E3%81%9B",
+            "promoted_content": null,
+            "query": "%E4%BA%BA%E3%81%AE%E5%B9%B8%E3%81%9B",
+            "tweet_volume": 28103
+        },
+        {
+            "name": "アンデラ",
+            "url": "http://twitter.com/search?q=%E3%82%A2%E3%83%B3%E3%83%87%E3%83%A9",
+            "promoted_content": null,
+            "query": "%E3%82%A2%E3%83%B3%E3%83%87%E3%83%A9",
+            "tweet_volume": null
+        },
+        {
+            "name": "ベンゼマ",
+            "url": "http://twitter.com/search?q=%E3%83%99%E3%83%B3%E3%82%BC%E3%83%9E",
+            "promoted_content": null,
+            "query": "%E3%83%99%E3%83%B3%E3%82%BC%E3%83%9E",
+            "tweet_volume": null
+        },
+        {
+            "name": "マーティン",
+            "url": "http://twitter.com/search?q=%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3",
+            "tweet_volume": null
+        },
+        {
+            "name": "󠁧󠁢󠁥󠁮󠁧󠁿vs",
+            "url": "http://twitter.com/search?q=%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BFvs",
+            "promoted_content": null,
+            "query": "%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BFvs",
+            "tweet_volume": 917330
+        },
+        {
+            "name": "平和主義者",
+            "url": "http://twitter.com/search?q=%E5%B9%B3%E5%92%8C%E4%B8%BB%E7%BE%A9%E8%80%85",
+            "promoted_content": null,
+            "query": "%E5%B9%B3%E5%92%8C%E4%B8%BB%E7%BE%A9%E8%80%85",
+            "tweet_volume": null
+        },
+        {
+            "name": "デビィ・ザ・コルシファ",
+            "url": "http://twitter.com/search?q=%E3%83%87%E3%83%93%E3%82%A3%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%B3%E3%83%AB%E3%82%B7%E3%83%95%E3%82%A1",
+            "promoted_content": null,
+            "query": "%E3%83%87%E3%83%93%E3%82%A3%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%B3%E3%83%AB%E3%82%B7%E3%83%95%E3%82%A1",
+            "tweet_volume": null
+        }
+    ],
+    "as_of": "2022-12-04T21:46:28Z",
+    "created_at": "2022-12-04T06:52:00Z",
+    "locations": [
+        {
+            "name": "Japan",
+            "woeid": 23424856
+        }
+    ]
+}

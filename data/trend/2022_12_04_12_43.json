@@ -1,0 +1,362 @@
+{
+    "trends": [
+        {
+            "name": "#推しの名前を言わないで表す",
+            "url": "http://twitter.com/search?q=%23%E6%8E%A8%E3%81%97%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A7%E8%A1%A8%E3%81%99",
+            "promoted_content": null,
+            "query": "%23%E6%8E%A8%E3%81%97%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%92%E8%A8%80%E3%82%8F%E3%81%AA%E3%81%84%E3%81%A7%E8%A1%A8%E3%81%99",
+            "tweet_volume": 10948
+        },
+        {
+            "name": "#すとぷりのHWG",
+            "url": "http://twitter.com/search?q=%23%E3%81%99%E3%81%A8%E3%81%B7%E3%82%8A%E3%81%AEHWG",
+            "promoted_content": null,
+            "query": "%23%E3%81%99%E3%81%A8%E3%81%B7%E3%82%8A%E3%81%AEHWG",
+            "tweet_volume": 246659
+        },
+        {
+            "name": "暴行容疑",
+            "url": "http://twitter.com/search?q=%E6%9A%B4%E8%A1%8C%E5%AE%B9%E7%96%91",
+            "promoted_content": null,
+            "query": "%E6%9A%B4%E8%A1%8C%E5%AE%B9%E7%96%91",
+            "tweet_volume": 11765
+        },
+        {
+            "name": "静岡県警",
+            "url": "http://twitter.com/search?q=%E9%9D%99%E5%B2%A1%E7%9C%8C%E8%AD%A6",
+            "promoted_content": null,
+            "query": "%E9%9D%99%E5%B2%A1%E7%9C%8C%E8%AD%A6",
+            "tweet_volume": null
+        },
+        {
+            "name": "#ドンブラザーズ",
+            "url": "http://twitter.com/search?q=%23%E3%83%89%E3%83%B3%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA",
+            "promoted_content": null,
+            "query": "%23%E3%83%89%E3%83%B3%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA",
+            "tweet_volume": 61694
+        },
+        {
+            "name": "元保育士3人",
+            "url": "http://twitter.com/search?q=%E5%85%83%E4%BF%9D%E8%82%B2%E5%A3%AB3%E4%BA%BA",
+            "promoted_content": null,
+            "query": "%E5%85%83%E4%BF%9D%E8%82%B2%E5%A3%AB3%E4%BA%BA",
+            "tweet_volume": null
+        },
+        {
+            "name": "静岡・裾野市の保育園虐待問題",
+            "url": "http://twitter.com/search?q=%E9%9D%99%E5%B2%A1%E3%83%BB%E8%A3%BE%E9%87%8E%E5%B8%82%E3%81%AE%E4%BF%9D%E8%82%B2%E5%9C%92%E8%99%90%E5%BE%85%E5%95%8F%E9%A1%8C",
+            "promoted_content": null,
+            "query": "%E9%9D%99%E5%B2%A1%E3%83%BB%E8%A3%BE%E9%87%8E%E5%B8%82%E3%81%AE%E4%BF%9D%E8%82%B2%E5%9C%92%E8%99%90%E5%BE%85%E5%95%8F%E9%A1%8C",
+            "tweet_volume": null
+        },
+        {
+            "name": "静岡放送",
+            "url": "http://twitter.com/search?q=%E9%9D%99%E5%B2%A1%E6%94%BE%E9%80%81",
+            "promoted_content": null,
+            "query": "%E9%9D%99%E5%B2%A1%E6%94%BE%E9%80%81",
+            "tweet_volume": null
+        },
+        {
+            "name": "#ワイドナショー",
+            "url": "http://twitter.com/search?q=%23%E3%83%AF%E3%82%A4%E3%83%89%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%BC",
+            "promoted_content": null,
+            "query": "%23%E3%83%AF%E3%82%A4%E3%83%89%E3%83%8A%E3%82%B7%E3%83%A7%E3%83%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "#SPOTVNOW",
+            "url": "http://twitter.com/search?q=%23SPOTVNOW",
+            "promoted_content": null,
+            "query": "%23SPOTVNOW",
+            "tweet_volume": null
+        },
+        {
+            "name": "廃止主張",
+            "url": "http://twitter.com/search?q=%E5%BB%83%E6%AD%A2%E4%B8%BB%E5%BC%B5",
+            "promoted_content": null,
+            "query": "%E5%BB%83%E6%AD%A2%E4%B8%BB%E5%BC%B5",
+            "tweet_volume": null
+        },
+        {
+            "name": "ジェルくん",
+            "url": "http://twitter.com/search?q=%E3%82%B8%E3%82%A7%E3%83%AB%E3%81%8F%E3%82%93",
+            "promoted_content": null,
+            "query": "%E3%82%B8%E3%82%A7%E3%83%AB%E3%81%8F%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "元英代表FW",
+            "url": "http://twitter.com/search?q=%E5%85%83%E8%8B%B1%E4%BB%A3%E8%A1%A8FW",
+            "promoted_content": null,
+            "query": "%E5%85%83%E8%8B%B1%E4%BB%A3%E8%A1%A8FW",
+            "tweet_volume": null
+        },
+        {
+            "name": "VAR擁護派",
+            "url": "http://twitter.com/search?q=VAR%E6%93%81%E8%AD%B7%E6%B4%BE",
+            "promoted_content": null,
+            "query": "VAR%E6%93%81%E8%AD%B7%E6%B4%BE",
+            "tweet_volume": null
+        },
+        {
+            "name": "騒動続出",
+            "url": "http://twitter.com/search?q=%E9%A8%92%E5%8B%95%E7%B6%9A%E5%87%BA",
+            "promoted_content": null,
+            "query": "%E9%A8%92%E5%8B%95%E7%B6%9A%E5%87%BA",
+            "tweet_volume": null
+        },
+        {
+            "name": "ドンキラーキラー",
+            "url": "http://twitter.com/search?q=%E3%83%89%E3%83%B3%E3%82%AD%E3%83%A9%E3%83%BC%E3%82%AD%E3%83%A9%E3%83%BC",
+            "promoted_content": null,
+            "query": "%E3%83%89%E3%83%B3%E3%82%AD%E3%83%A9%E3%83%BC%E3%82%AD%E3%83%A9%E3%83%BC",
+            "tweet_volume": 17540
+        },
+        {
+            "name": "暴行疑い",
+            "url": "http://twitter.com/search?q=%E6%9A%B4%E8%A1%8C%E7%96%91%E3%81%84",
+            "promoted_content": null,
+            "query": "%E6%9A%B4%E8%A1%8C%E7%96%91%E3%81%84",
+            "tweet_volume": null
+        },
+        {
+            "name": "莉犬くん",
+            "url": "http://twitter.com/search?q=%E8%8E%89%E7%8A%AC%E3%81%8F%E3%82%93",
+            "promoted_content": null,
+            "query": "%E8%8E%89%E7%8A%AC%E3%81%8F%E3%82%93",
+            "tweet_volume": 19346
+        },
+        {
+            "name": "いちごニキ",
+            "url": "http://twitter.com/search?q=%E3%81%84%E3%81%A1%E3%81%94%E3%83%8B%E3%82%AD",
+            "promoted_content": null,
+            "query": "%E3%81%84%E3%81%A1%E3%81%94%E3%83%8B%E3%82%AD",
+            "tweet_volume": null
+        },
+        {
+            "name": "ニュートロンジャマーキャンセラー",
+            "url": "http://twitter.com/search?q=%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%A9%E3%83%BC",
+            "promoted_content": null,
+            "query": "%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AD%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%9E%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%A9%E3%83%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "テーオーケインズ",
+            "url": "http://twitter.com/search?q=%E3%83%86%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%A4%E3%83%B3%E3%82%BA",
+            "promoted_content": null,
+            "query": "%E3%83%86%E3%83%BC%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%A4%E3%83%B3%E3%82%BA",
+            "tweet_volume": 18388
+        },
+        {
+            "name": "ALGS",
+            "url": "http://twitter.com/search?q=ALGS",
+            "promoted_content": null,
+            "query": "ALGS",
+            "tweet_volume": null
+        },
+        {
+            "name": "実名報道",
+            "url": "http://twitter.com/search?q=%E5%AE%9F%E5%90%8D%E5%A0%B1%E9%81%93",
+            "promoted_content": null,
+            "query": "%E5%AE%9F%E5%90%8D%E5%A0%B1%E9%81%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "ペンギン",
+            "url": "http://twitter.com/search?q=%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3",
+            "promoted_content": null,
+            "query": "%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3",
+            "tweet_volume": 27696
+        },
+        {
+            "name": "THE ANSWER",
+            "url": "http://twitter.com/search?q=%22THE+ANSWER%22",
+            "promoted_content": null,
+            "query": "%22THE+ANSWER%22",
+            "tweet_volume": 149717
+        },
+        {
+            "name": "ジンくん",
+            "url": "http://twitter.com/search?q=%E3%82%B8%E3%83%B3%E3%81%8F%E3%82%93",
+            "promoted_content": null,
+            "query": "%E3%82%B8%E3%83%B3%E3%81%8F%E3%82%93",
+            "tweet_volume": 44842
+        },
+        {
+            "name": "はかた号",
+            "url": "http://twitter.com/search?q=%E3%81%AF%E3%81%8B%E3%81%9F%E5%8F%B7",
+            "promoted_content": null,
+            "query": "%E3%81%AF%E3%81%8B%E3%81%9F%E5%8F%B7",
+            "tweet_volume": null
+        },
+        {
+            "name": "保育士逮捕",
+            "url": "http://twitter.com/search?q=%E4%BF%9D%E8%82%B2%E5%A3%AB%E9%80%AE%E6%8D%95",
+            "promoted_content": null,
+            "query": "%E4%BF%9D%E8%82%B2%E5%A3%AB%E9%80%AE%E6%8D%95",
+            "tweet_volume": 10730
+        },
+        {
+            "name": "SBS NEWS",
+            "url": "http://twitter.com/search?q=%22SBS+NEWS%22",
+            "promoted_content": null,
+            "query": "%22SBS+NEWS%22",
+            "tweet_volume": null
+        },
+        {
+            "name": "埼玉県民",
+            "url": "http://twitter.com/search?q=%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%B0%91",
+            "promoted_content": null,
+            "query": "%E5%9F%BC%E7%8E%89%E7%9C%8C%E6%B0%91",
+            "tweet_volume": null
+        },
+        {
+            "name": "ヴァンパイアカフェ",
+            "url": "http://twitter.com/search?q=%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%E3%82%AB%E3%83%95%E3%82%A7",
+            "promoted_content": null,
+            "query": "%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%91%E3%82%A4%E3%82%A2%E3%82%AB%E3%83%95%E3%82%A7",
+            "tweet_volume": null
+        },
+        {
+            "name": "ヴァンビスタ",
+            "url": "http://twitter.com/search?q=%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%93%E3%82%B9%E3%82%BF",
+            "promoted_content": null,
+            "query": "%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%93%E3%82%B9%E3%82%BF",
+            "tweet_volume": null
+        },
+        {
+            "name": "全肯定ニキ",
+            "url": "http://twitter.com/search?q=%E5%85%A8%E8%82%AF%E5%AE%9A%E3%83%8B%E3%82%AD",
+            "promoted_content": null,
+            "query": "%E5%85%A8%E8%82%AF%E5%AE%9A%E3%83%8B%E3%82%AD",
+            "tweet_volume": null
+        },
+        {
+            "name": "トゥルーヒーロー",
+            "url": "http://twitter.com/search?q=%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC",
+            "promoted_content": null,
+            "query": "%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "新東名高速",
+            "url": "http://twitter.com/search?q=%E6%96%B0%E6%9D%B1%E5%90%8D%E9%AB%98%E9%80%9F",
+            "promoted_content": null,
+            "query": "%E6%96%B0%E6%9D%B1%E5%90%8D%E9%AB%98%E9%80%9F",
+            "tweet_volume": null
+        },
+        {
+            "name": "高速バスとトラック衝突",
+            "url": "http://twitter.com/search?q=%E9%AB%98%E9%80%9F%E3%83%90%E3%82%B9%E3%81%A8%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E8%A1%9D%E7%AA%81",
+            "promoted_content": null,
+            "query": "%E9%AB%98%E9%80%9F%E3%83%90%E3%82%B9%E3%81%A8%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%E8%A1%9D%E7%AA%81",
+            "tweet_volume": null
+        },
+        {
+            "name": "保育園児虐待",
+            "url": "http://twitter.com/search?q=%E4%BF%9D%E8%82%B2%E5%9C%92%E5%85%90%E8%99%90%E5%BE%85",
+            "promoted_content": null,
+            "query": "%E4%BF%9D%E8%82%B2%E5%9C%92%E5%85%90%E8%99%90%E5%BE%85",
+            "tweet_volume": null
+        },
+        {
+            "name": "博多発新宿行",
+            "url": "http://twitter.com/search?q=%E5%8D%9A%E5%A4%9A%E7%99%BA%E6%96%B0%E5%AE%BF%E8%A1%8C",
+            "promoted_content": null,
+            "query": "%E5%8D%9A%E5%A4%9A%E7%99%BA%E6%96%B0%E5%AE%BF%E8%A1%8C",
+            "tweet_volume": null
+        },
+        {
+            "name": "フォーエバーヒーロー",
+            "url": "http://twitter.com/search?q=%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%90%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC",
+            "promoted_content": null,
+            "query": "%E3%83%95%E3%82%A9%E3%83%BC%E3%82%A8%E3%83%90%E3%83%BC%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC",
+            "tweet_volume": null
+        },
+        {
+            "name": "ローズ伯爵",
+            "url": "http://twitter.com/search?q=%E3%83%AD%E3%83%BC%E3%82%BA%E4%BC%AF%E7%88%B5",
+            "promoted_content": null,
+            "query": "%E3%83%AD%E3%83%BC%E3%82%BA%E4%BC%AF%E7%88%B5",
+            "tweet_volume": null
+        },
+        {
+            "name": "武田鉄矢",
+            "url": "http://twitter.com/search?q=%E6%AD%A6%E7%94%B0%E9%89%84%E7%9F%A2",
+            "promoted_content": null,
+            "query": "%E6%AD%A6%E7%94%B0%E9%89%84%E7%9F%A2",
+            "tweet_volume": null
+        },
+        {
+            "name": "チャンピオンズC",
+            "url": "http://twitter.com/search?q=%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%BAC",
+            "promoted_content": null,
+            "query": "%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%BAC",
+            "tweet_volume": 33551
+        },
+        {
+            "name": "エイリアンニキ",
+            "url": "http://twitter.com/search?q=%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8B%E3%82%AD",
+            "promoted_content": null,
+            "query": "%E3%82%A8%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%8B%E3%82%AD",
+            "tweet_volume": null
+        },
+        {
+            "name": "およ家コラボ",
+            "url": "http://twitter.com/search?q=%E3%81%8A%E3%82%88%E5%AE%B6%E3%82%B3%E3%83%A9%E3%83%9C",
+            "promoted_content": null,
+            "query": "%E3%81%8A%E3%82%88%E5%AE%B6%E3%82%B3%E3%83%A9%E3%83%9C",
+            "tweet_volume": null
+        },
+        {
+            "name": "トレンド1位",
+            "url": "http://twitter.com/search?q=%E3%83%88%E3%83%AC%E3%83%B3%E3%83%891%E4%BD%8D",
+            "promoted_content": null,
+            "query": "%E3%83%88%E3%83%AC%E3%83%B3%E3%83%891%E4%BD%8D",
+            "tweet_volume": 25352
+        },
+        {
+            "name": "ドリフェス",
+            "url": "http://twitter.com/search?q=%E3%83%89%E3%83%AA%E3%83%95%E3%82%A7%E3%82%B9",
+            "promoted_content": null,
+            "query": "%E3%83%89%E3%83%AA%E3%83%95%E3%82%A7%E3%82%B9",
+            "tweet_volume": null
+        },
+        {
+            "name": "おぐちゃん",
+            "url": "http://twitter.com/search?q=%E3%81%8A%E3%81%90%E3%81%A1%E3%82%83%E3%82%93",
+            "promoted_content": null,
+            "query": "%E3%81%8A%E3%81%90%E3%81%A1%E3%82%83%E3%82%93",
+            "tweet_volume": null
+        },
+        {
+            "name": "ジュンライトボルト",
+            "url": "http://twitter.com/search?q=%E3%82%B8%E3%83%A5%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9C%E3%83%AB%E3%83%88",
+            "promoted_content": null,
+            "query": "%E3%82%B8%E3%83%A5%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%88%E3%83%9C%E3%83%AB%E3%83%88",
+            "tweet_volume": null
+        },
+        {
+            "name": "スカイロケット",
+            "url": "http://twitter.com/search?q=%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+            "promoted_content": null,
+            "query": "%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%AD%E3%82%B1%E3%83%83%E3%83%88",
+            "tweet_volume": null
+        },
+        {
+            "name": "瑞稀くん",
+            "url": "http://twitter.com/search?q=%E7%91%9E%E7%A8%80%E3%81%8F%E3%82%93",
+            "promoted_content": null,
+            "query": "%E7%91%9E%E7%A8%80%E3%81%8F%E3%82%93",
+            "tweet_volume": null
+        }
+    ],
+    "as_of": "2022-12-04T03:43:35Z",
+    "created_at": "2022-12-01T22:57:27Z",
+    "locations": [
+        {
+            "name": "Japan",
+            "woeid": 23424856
+        }
+    ]
+}
