@@ -1,5 +1,6 @@
 import glob
 import json
+import os
 import pickle
 import re
 import urllib.request
@@ -107,6 +108,8 @@ def make_corpus_tfidf(texts_words, dictionary, save_dir='model'):
     return corpus_tfidf
 
 def main():
+    os.makedirs('model', exist_ok=True)
+
     # データからTweetを取り出す
     texts = json2texts()
     print(f'Data is {len(texts)} tweets')
