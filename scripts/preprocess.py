@@ -14,7 +14,7 @@ def json2texts(path='data/tweet/*') -> dict:
     tweet_path_list = glob.glob(path)
     # key:tweet id, value:tweet text
     texts = dict()
-    for path in tweet_path_list[:]:
+    for path in tweet_path_list[:2816]:
         with open(path) as f:
             tweet = json.load(f)
         for t in tweet['tweets']:
@@ -78,11 +78,13 @@ class MecabTokenizer():
 
         return token_list
 
-def tokenize(texts):
+def tokenize(texts, save_dir='model'):
     tokenizer = MecabTokenizer()
     tokenized_texts = {}
     for k, v in texts.items():
         tokenized_texts[k] = tokenizer.tockenize(v)
+    with open(save_dir+"/tokenized_texts.pkl", "wb") as f:
+        pickle.dump(tokenized_texts, f)
     return tokenized_texts
 
 def make_dict(texts_words, no_below=5, no_above=0.5, save_dir='model'):

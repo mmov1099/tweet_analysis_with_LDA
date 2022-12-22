@@ -1,19 +1,17 @@
-from tqdm import tqdm
-import numpy as np
+import pickle
+
 import gensim
 import matplotlib.pyplot as plt
-import pickle
+import numpy as np
 from preprocess import json2texts, tokenize
+from tqdm import tqdm
+
 
 def load_data(dir='model'):
     # 基本となるデータをload
-
-    print('Loading tweets')
-    # データからTweetを取り出す
-    texts = json2texts()
-    # トークナイズする
-    print('Tokenizing texts')
-    tokenized_texts = tokenize(texts)
+    print('Loading tokenized_texts')
+    with open(dir+"/tokenized_texts.pkl", "rb") as tf:
+        tokenized_texts = pickle.load(tf)
 
     # 辞書のテキストファイルをload
     print('Loading a dictionary')
@@ -38,10 +36,14 @@ class AnalyzerModels():
         self.perplexity_vals = []
 
     def analyze(self, texts_words, dictionary, corpus):
-        for n_topic in tqdm(range(self.start, self.limit, self.step)):
+        for n_topic in range(self.start, self.limit, self.step):
+            print(f'Building model of {n_topic} topics')
             lda_model = gensim.models.ldamodel.LdaModel(corpus=corpus, id2word=dictionary, num_topics=n_topic, random_state=0)
+            print('Calculating perplexity value')
             self.perplexity_vals.append(np.exp2(-lda_model.log_perplexity(corpus)))
+            print('Building coherence model')
             coherence_model_lda = gensim.models.CoherenceModel(model=lda_model, texts=texts_words.values(), dictionary=dictionary, coherence='c_v')
+            print('Calculating coherence')
             self.coherence_vals.append(coherence_model_lda.get_coherence())
 
     def visualize(self, save_dir='model'):
