@@ -4,7 +4,7 @@ import json
 import datetime
 
 #queryのワードで検索して上位max_results個のツイートをjsonで保存
-def search_recent_tweets(query:str, max_results:int=100):
+def search_recent_tweets(query:str, max_results:int=100, data_dir='data'):
     bearer_token = BEARER_TOKEN
     client = tweepy.Client(bearer_token)
 
@@ -39,11 +39,5 @@ def search_recent_tweets(query:str, max_results:int=100):
 
     time_now = datetime.datetime.now().strftime('%Y_%m_%d_%H_%M')
 
-    with open('../data/tweet/{}_{}.json'.format(time_now, query), 'w') as f:
+    with open(data_dir+'/tweet/{}_{}.json'.format(time_now, query), 'w') as f:
         json.dump(tweets_dict, f, indent=4, ensure_ascii=False)
-
-def main():
-    print('pass')
-
-if __name__ == '__main__':
-    main()

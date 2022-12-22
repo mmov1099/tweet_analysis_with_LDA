@@ -4,16 +4,15 @@ import glob
 import json
 
 #トレンドを取得してトレンドのワードで検索する一連の流れ
-def search_and_save_data(max_results:int=100):
-    get_place_trends()
+def search_and_save_data(max_results:int=100, data_dir='data'):
+    get_place_trends(data_dir=data_dir)
 
-    json_path = sorted(glob.glob('../data/trend/*'))
+    json_path = sorted(glob.glob(data_dir+'/trend/*'))
     with open(json_path[-1]) as f:
         trends = json.load(f)
 
     for trend in trends['trends']:
-        trend['name']
-        search_recent_tweets(trend['name'], max_results=max_results)
+        search_recent_tweets(trend['name'], max_results=max_results, data_dir=data_dir)
 
 def main():
     search_and_save_data()
