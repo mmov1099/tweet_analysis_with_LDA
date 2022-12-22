@@ -22,10 +22,6 @@ python3 -m venv lda_env && source lda_env/bin/activate && \
 pip install -r requirements.txt
 ```
 
-# when you run scripts
-```bash
-cd scripts
-```
 
 ## search data
 1．Get the top 50 trending
@@ -37,15 +33,40 @@ cd scripts
 4．Save as json in `data/tweet`
 
 ```bash
-python search_data.py
+python scripts/search_data.py
 ```
 
 ## periodically search data
 search data every 3 hours
 ```bash
-python schedule_do.py
+python scripts/schedule_do.py
 ```
 
+# run
+```bash
+pwd
+tweet_analysis_with_LDA
+```
+```python
+python main.py
+```
+options
+```python
+python main.py -h
+```
+```bash
+  -h, --help            show this help message and exit
+  -nt NUM_TOPICS, --num_topics NUM_TOPICS
+  -p, --preprocess      run preprocess
+  -t, --train           run training LDA model
+  -tf, --tfidf          use tfidf corpus
+  -f, --feature         compress tweets and save features
+  -e, --elbow           run elbow
+  -nc NUM_CLUSTER, --num_cluster NUM_CLUSTER
+  -k, --kmeans          run create_and_save_kmeans_model()
+```
+_______________________________________________________
+under construction
 # run scripts in a container
 ```bash
 docker build -t lda .
