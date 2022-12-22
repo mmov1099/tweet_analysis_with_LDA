@@ -8,7 +8,6 @@ import urllib.request
 import gensim
 import MeCab
 
-
 # jsonファイルからTweetを取り出して辞書で返す
 def json2texts(path='data/tweet/*') -> dict:
     tweet_path_list = glob.glob(path)
@@ -66,7 +65,7 @@ class MecabTokenizer():
         #品詞を取得
         pos = [l.split('\t')[1].split(",")[0] for l in parsed_lines]
         # 名詞,動詞,形容詞のみに絞り込み
-        target_pos = ["名詞", '形容詞', '副詞', '動詞']
+        target_pos = ["名詞", '形容詞', '副詞']
         token_list = [t for t, p in zip(token_list, pos) if p in target_pos]
 
         # stopwordsの除去
@@ -94,22 +93,25 @@ def make_dict(texts_words, no_below=5, no_above=0.5, save_dir='model'):
     dictionary.save_as_text(save_dir + '/wordid.txt')
     return dictionary
 
-def make_corpus(texts_words, dictionary):
+def make_corpus(texts_words, dictionary, save_dir='model'):
     corpus = [dictionary.doc2bow(words) for words in texts_words.values()]
     # コーパスをテキストファイルで保存する場合
-    # gensim.corpora.MmCorpus.serialize('blog_corpus.mm', corpus)
+    gensim.corpora.MmCorpus.serialize(save_dir+'/corpus.mm', corpus)
     # corpus = gensim.corpora.MmCorpus('blog_corpus.mm')
+    # save corpus
+    with open(save_dir+"/corpus.pkl",'wb') as f:
+        pickle.dump(corpus,f)
     return corpus
 
 def make_corpus_tfidf(texts_words, dictionary, save_dir='model'):
     corpus = make_corpus(texts_words, dictionary)
     tfidf = gensim.models.TfidfModel(corpus)
     corpus_tfidf = tfidf[corpus]
-    with open(save_dir+'/tfidf.dump', mode='wb') as f:
+    with open(save_dir+'/tfidf.pkl', mode='wb') as f:
         pickle.dump(corpus_tfidf, f)
     return corpus_tfidf
 
-def main():
+def main(args):
     os.makedirs('model', exist_ok=True)
 
     # データからTweetを取り出す
@@ -117,6 +119,7 @@ def main():
     print(f'Data is {len(texts)} tweets')
 
     # トークナイズする
+    print('Tokenizing...')
     tokenized_texts = tokenize(texts)
     print('Words count is {}'.format(sum([len(t) for t in tokenized_texts.values()])))
 
@@ -124,9 +127,14 @@ def main():
     dictionary = make_dict(tokenized_texts)
     print(f'Length of dictionary is {len(dictionary)}')
     # コーパスを作成
-    corpus_tfidf = make_corpus_tfidf(tokenized_texts, dictionary)
+    if args.tfidf:
+        corpus = make_corpus_tfidf(tokenized_texts, dictionary)
+    else:
+        corpus = make_corpus(tokenized_texts, dictionary)
 
-    print('Preprocess is done')
+    print('Preprocess is done\n')
+
+    return tokenized_texts, dictionary, corpus
 
 if __name__ == '__main__':
     main()

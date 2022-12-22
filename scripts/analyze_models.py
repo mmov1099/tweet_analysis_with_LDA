@@ -10,8 +10,8 @@ from tqdm import tqdm
 def load_data(dir='model'):
     # 基本となるデータをload
     print('Loading tokenized_texts')
-    with open(dir+"/tokenized_texts.pkl", "rb") as tf:
-        tokenized_texts = pickle.load(tf)
+    with open(dir+"/tokenized_texts.pkl", "rb") as f:
+        tokenized_texts = pickle.load(f)
 
     # 辞書のテキストファイルをload
     print('Loading a dictionary')
@@ -19,8 +19,9 @@ def load_data(dir='model'):
 
     # コーパスのファイルをload
     print('Loading a copus')
-    with open(dir+'/tfidf.dump', mode='rb') as f:
+    with open(dir+'/corpus.pkl', mode='rb') as f:
         corpus = pickle.load(f)
+    print('Completed loading\n')
 
     return tokenized_texts, dictionary, corpus
 
